@@ -5,7 +5,7 @@
 #    Description: A very simple Python script for beginners.
 #------------------------------------------------------------------------------
 
-print( "Hello World In Jeninks!" )
+print( "Hello World Hi!" )
 
 # The following call to input() is not really necessary, but with out
 # something to pause the script, it will open and close the command window
